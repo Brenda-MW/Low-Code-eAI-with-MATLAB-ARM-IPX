@@ -24,3 +24,6 @@ To participate in the workshop, you need:
 
 You will be provided with a temporary MATLAB workshop license that will give you access to all products used in the workshop, as well as the workshop exercise files. Access to Arm account is public and free.
 
+If you don’t have an Arm account, you need to create one to get access to Arm IP Explorer and use the material for this event. You will need access to your email on the machine you are using to create the account. Navigate to this address in Google Chrome: https://ipexplorer.arm.com/login and click Register to register for an Arm account. 
+
+Congratulations! You are all set up to join us on the hands-on workshop! Have fun! 
