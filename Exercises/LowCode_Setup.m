@@ -22,3 +22,4 @@ else
     fprintf('\nEnvironment Check is Complete!\n');
     fprintf('\nEnjoy the workshop!\n');
 end
+fclose(fid); 
